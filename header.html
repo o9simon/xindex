@@ -1,0 +1,21 @@
+<div class="header-avatar">
+{{#avatar}}
+  <img src="{{{avatar_url}}}" alt="{{title}}"/><br>
+{{/avatar}}
+</div>
+
+<div class="header-menu">
+  <a href="/" id="logo">
+    {{title}}
+  </a>
+  <br />
+
+  {{#menu}}
+  <a class="menu" href="{{{url}}}" title="{{label}}">{{label}}</a>
+  {{/menu}}
+</div>
+
+  <br/>
+
+<div class="clear"></div>
+<hr />

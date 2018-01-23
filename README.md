@@ -1,0 +1,7 @@
+# A Blot theme based on Index
+
+Differences with Index:
+* Logo aligned with menu instead of above it.
+* Index page with content instead of just titles.
+
+Used on [o9s.xyz](http://o9s.xyz)
