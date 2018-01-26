@@ -24,10 +24,6 @@ img.avatar {
   margin-left: 35px;
 }
 
-.clear {
-  clear: both;
-}
-
 /* Text */
 
 a {color: inherit;text-decoration: underline;padding: 0.25em 0.5em;background: none;margin: -0.25em -0.5em;border-radius: 4px;transition: background 0.2s ease;}
