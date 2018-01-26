@@ -24,6 +24,8 @@ img.avatar {
   margin-left: 35px;
 }
 
+.row {text-decoration: none;}
+
 /* Text */
 
 a {color: inherit;text-decoration: underline;padding: 0.25em 0.5em;background: none;margin: -0.25em -0.5em;border-radius: 4px;transition: background 0.2s ease;}
@@ -60,7 +62,7 @@ sup {font-size: 0.83;line-height: 0;vertical-align: super;}
 
 a.menu {margin-right: 0em;line-height: 1.75;text-decoration: none;}
 
-.archive {color: black;line-height: 1.75;margin-bottom: 0}
+.archive {color: black;line-height: 1.75;margin-bottom: 0;text-decoration: none;}
 
 input[name=q] {
   display: inline-block;
