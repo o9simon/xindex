@@ -61,17 +61,6 @@ sup {font-size: 0.83;line-height: 0;vertical-align: super;}
 
 a.menu {margin-right: 0em;line-height: 1.75}
 
-a.row {
-  display: inline-block;
-  position: relative;
-  margin-top: 0.25em;
-  margin-bottom: 0.25em;
-  padding-right: 16em;
-  width: 50vw;
-  left: 50%;
-  margin-left: -16.5em;
-}
-
 .archive {color: black;line-height: 1.75;margin-bottom: 0}
 
 input[name=q] {
@@ -307,7 +296,7 @@ iframe {width: 100%;}
 
 @media screen and (max-width: 34em) {
 
-  hr.full, a.row {width: 100%;margin-left: 0;margin-right:0;padding-right: 0;padding-left:0;position: relative;left: 0;}
+  hr.full {width: 100%;margin-left: 0;margin-right:0;padding-right: 0;padding-left:0;position: relative;left: 0;}
 
 }
 
