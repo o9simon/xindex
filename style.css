@@ -308,7 +308,7 @@ iframe {width: 100%;}
   .nav .right {clear: both;float: none;margin-top: 3px}
   a.search {margin-left: 0}
   body {font-size: 1rem;padding: 1rem}
-  .header-avatar {float: none;}
+  .header-avatar {display:none;}
   .header-menu {float: none; margin-left: 0px; margin-top: 25px;}
 
 }
